@@ -1,0 +1,51 @@
+var participants=[
+    {
+        participantName:"sakshi",
+        score:90
+    },
+    {
+        participantName:"payal",
+        score:80
+    },
+    {
+        participantName:"vaishu",
+        score:70
+    },
+    {
+        participantName:"Dips",
+        score:60
+    },
+    {
+        participantName:"Ishh",
+        score:50
+    },
+    {
+        participantName:"Sweety",
+        score:40
+    },
+    {
+        participantName:"sunny",
+        score:30
+    },
+    {
+        participantName:"pratuu",
+        score:20
+    },
+    {
+        participantName:"Athiyaa",
+        score:10
+    },
+    {
+        participantName:"Virushka",
+        score:100
+    },
+    {
+        participantName:"sakshi",
+        score:90
+    },
+]
+
+
+var sortedParticipants=participants.slice(0,10);
+console.log(sortedParticipants);
+console.log(participants);
